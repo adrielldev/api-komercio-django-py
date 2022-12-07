@@ -1,0 +1,17 @@
+asgiref==3.5.2
+attrs==22.1.0
+coverage==6.5.0
+dj-database-url==1.0.0
+Django==4.1.2
+djangorestframework==3.14.0
+drf-spectacular==0.24.2
+gunicorn==20.1.0
+inflection==0.5.1
+jsonschema==4.16.0
+psycopg2-binary==2.9.4
+pyrsistent==0.18.1
+python-dotenv==0.21.0
+pytz==2022.4
+PyYAML==6.0
+sqlparse==0.4.3
+uritemplate==4.1.1

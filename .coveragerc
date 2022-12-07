@@ -1,0 +1,9 @@
+[run]
+source = .
+omit = 
+    venv/*
+    komercio/*
+    manage.py
+
+[report]
+show_missing = True

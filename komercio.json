@@ -1,0 +1,62 @@
+[
+    {
+        "model": "products.product",
+        "pk": "80ae5d1e-d9ca-4dff-ba09-96929e547c8d",
+        "fields": {
+            "description": "patch smartband",
+            "price": "100.99",
+            "quantity": 15,
+            "is_active": true,
+            "seller": "6c88d9cd-c6f9-4afe-91d0-a1d119509f48"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": "e657c0ab-ca98-463d-84ec-aa8d36691112",
+        "fields": {
+            "description": "Smartband XYZ 3.0",
+            "price": "100.99",
+            "quantity": 15,
+            "is_active": true,
+            "seller": "6c88d9cd-c6f9-4afe-91d0-a1d119509f48"
+        }
+    },
+    {
+        "model": "users.user",
+        "pk": "6c88d9cd-c6f9-4afe-91d0-a1d119509f48",
+        "fields": {
+            "password": "pbkdf2_sha256$390000$tlnONinSXRwy4HmkH5D7Aa$4Eeu0xiT3FzZAQnLmC/nPuSyBuI++fVtGLUARBzyjc4=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "testepatch",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-10-19T22:26:38.541Z",
+            "first_name": "vendedor",
+            "last_name": "ok",
+            "is_seller": true,
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "users.user",
+        "pk": "a9ea87f7-6b7e-433e-a473-a7b59c041903",
+        "fields": {
+            "password": "pbkdf2_sha256$390000$B3cf4bv1AcjXc44fgwBrb3$s9nfkJR+NJjahI8ePaXuOEipzfUVL0TdOglL6iqXZfQ=",
+            "last_login": null,
+            "is_superuser": true,
+            "username": "adrieldev",
+            "email": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2022-10-19T22:52:39.346Z",
+            "first_name": "adriel",
+            "last_name": "alberto",
+            "is_seller": false,
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]
